@@ -1,6 +1,6 @@
 # SushiBits One
 
-ARM Cortex-M in Arduino form fator, and consumes very little power.
+ARM Cortex-M in Arduino form factor, and consumes very little power.
 
 ## Introduction & Goal
 

@@ -1,6 +1,6 @@
 # Modified BSD License
 
-_Copyright © 2015 DreamCity by Max Chan &lt;<max@maxchan.info>&gt;_  
+_Copyright © 2015-2017 DreamCity by Max Chan &lt;<max@maxchan.info>&gt;_  
 _All rights reserved._
 
 Redistribution and use in source and binary forms, with or without

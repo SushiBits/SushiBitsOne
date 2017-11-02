@@ -207,7 +207,7 @@
 <text x="35.8775" y="15.5575" size="1.016" layer="21" align="bottom-center">RESET</text>
 <text x="40.9575" y="15.5575" size="1.016" layer="21" align="bottom-center">WAKE</text>
 <text x="45.4025" y="11.1125" size="1.27" layer="21" align="center-left">SushiBits
-M193v3</text>
+M193v4</text>
 <polygon width="0.254" layer="21">
 <vertex x="64.135" y="38.4175"/>
 <vertex x="64.77" y="38.735"/>

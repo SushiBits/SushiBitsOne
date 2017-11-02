@@ -28523,7 +28523,7 @@ Source: www.kingbright.com</description>
 <plain>
 <text x="162.56" y="22.86" size="2.54" layer="94" align="top-left">Arduino-compatible STM32
 Development Kit</text>
-<text x="217.17" y="22.86" size="2.54" layer="94" align="top-left">SushiBits M193v3</text>
+<text x="217.17" y="22.86" size="2.54" layer="94" align="top-left">SushiBits M193v4</text>
 <text x="5.08" y="5.08" size="2.54" layer="94">Copyright (c) 2016-2017 Max Chan
 Open Source Hardware. Released under 3-caluse BSD license</text>
 </plain>

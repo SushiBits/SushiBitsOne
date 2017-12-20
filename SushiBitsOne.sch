@@ -31170,9 +31170,9 @@ Manufacturer: Hirose&lt;br&gt;
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="+3V5" library="supply1" deviceset="+3V3" device=""/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
-<part name="D1" library="diode" deviceset="DIODE-" device="DO-214AC" value="SS34"/>
+<part name="D1" library="diode" deviceset="DIODE-" device="DO214AC" value="SS34"/>
 <part name="IC3" library="stm32f103c-dvk2" deviceset="TPS56*200" device="DBV" technology="2"/>
-<part name="C11" library="rcl" deviceset="CPOL-EU" device="UD-6,3X7,7" value="100u"/>
+<part name="C11" library="rcl" deviceset="CPOL-EU" device="UD-8X10" value="100u"/>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0805" value="10u"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
@@ -31180,7 +31180,7 @@ Manufacturer: Hirose&lt;br&gt;
 <part name="R13" library="rcl" deviceset="R-EU_" device="R0603" value="11k"/>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0603" value="2k"/>
 <part name="P+6" library="supply1" deviceset="+5V" device=""/>
-<part name="C15" library="rcl" deviceset="CPOL-EU" device="UD-6,3X8,8" value="220u"/>
+<part name="C15" library="rcl" deviceset="CPOL-EU" device="SMCB" value="220u"/>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R0603" value="4.7k"/>
 <part name="JP1" library="jumper" deviceset="JP1Q" device="" value="BOOT"/>
 <part name="FRAME1" library="frames" deviceset="A3P-LOC" device=""/>

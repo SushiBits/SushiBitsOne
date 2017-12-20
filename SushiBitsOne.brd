@@ -215,6 +215,11 @@ M193v6</text>
 </polygon>
 <text x="14.2875" y="21.59" size="1.27" layer="21" align="bottom-center">ON</text>
 <text x="14.2875" y="17.4625" size="1.27" layer="21" align="top-center">L</text>
+<polygon width="0.254" layer="21">
+<vertex x="2.8575" y="36.195"/>
+<vertex x="2.2225" y="36.5125"/>
+<vertex x="2.2225" y="35.8775"/>
+</polygon>
 </plain>
 <libraries>
 <library name="rcl">
